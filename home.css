@@ -92,22 +92,3 @@ footer {
   width: 100%;
   display: block;
 }
-#white-upp {
-    background-color: white;
-    margin: 10px;
-    padding: 10px;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-  }
-#white-upp .line {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  justify-items: center;
-}
-.bold {
-    font-weight: bold;
-    margin-right: 10px;
-}
